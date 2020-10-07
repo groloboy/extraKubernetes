@@ -1,0 +1,7 @@
+.bash_history
+.vimrc
+.viminfo
+.sudo_as_admin_successful
+.vim/
+.cache/
+.vagrant/
